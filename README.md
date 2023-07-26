@@ -2,7 +2,7 @@
 
 Data Translate & plots for subsurface analysis - logs and facies
 Creating a new dictionary and linking it with a new value. Using Seaborn (Pairplots) in data exploration.
-In creating Scatter plot of LITH Colum and WELL.( NPHI vs. RHOB )
+In creating Scatter plot of LITH Colum and WELL.
 
 - Pandas will be used to load and store our data.
 - Matplotlib will be used in visualizing the contents of the wells log data.
